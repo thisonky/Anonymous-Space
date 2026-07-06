@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💬 Combo Bot — Anonymous Chat & Menfess
+# 💬 Anon Space — Anonymous Chat & Menfess
 
 ### Now live on Telegram: a single bot with two exciting ways to chat freely without revealing your identity.
 
@@ -13,11 +13,11 @@
 
 ---
 
-## ✨ Why Combo Bot?
+## ✨ Why Anon Space Bot?
 
 Ever wanted to vent, confess to your crush, or just chat with someone new—without the hassle of setting up burner accounts everywhere?
 
-**Combo Bot brings together two essential features that usually require separate bots, all into one seamless experience:**
+**Anon Space Bot brings together two essential features that usually require separate bots, all into one seamless experience:**
 
 | | |
 |---|---|
@@ -46,6 +46,11 @@ Bored of your usual social circle? Find a random chat partner instantly, without
 - 🎭 100% hidden identity from start to finish.
 - 📎 Share text, photos, videos, stickers, and voice notes freely.
 
+### 👑 Premium Features
+- 👤 Select partner gender during anonymous chat.
+- 👀 View partner's Telegram profile directly.
+- 📈 Increase daily menfess quota
+
 ### 🎁 Referral System
 Invite your friends using your personal referral link, and both of you will score extra free menfess quotas. The more, the merrier!
 
@@ -67,7 +72,7 @@ No complicated setups, no personal data required.
 
 ## 🔒 Privacy First
 
-Combo Bot is built from the ground up with **absolute anonymity** in mind:
+Anon Space Bot is built from the ground up with **absolute anonymity** in mind:
 
 - Menfess posts are published to the channel with zero sender details.
 - Your anonymous chat partners will never see your name or username.
@@ -77,7 +82,7 @@ Combo Bot is built from the ground up with **absolute anonymity** in mind:
 
 ## 🛠️ About This Project
 
-Combo Bot is developed and maintained by **KEK Projects**, an independent initiative focused on building practical, free-to-use digital tools and services for everyone.
+Anon Space Bot is developed and maintained by **KEK Projects**, an independent initiative focused on building practical, free-to-use digital tools and services for everyone.
 
 This repository is private—this README serves as a project overview. If you're interested in collaborating, suggesting features, or reporting bugs, feel free to drop a message through the bot or contact the admin inside.
 
